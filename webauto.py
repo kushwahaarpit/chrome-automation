@@ -1,7 +1,7 @@
 import webbrowser as wb
 
 def webauto():
-    chrome_path = 'C:/Program Files (x86)/Google/Chrome/Application/chrome.exe %s'
+    chrome_path = 'C:/Program Files/Google/Chrome/Application/chrome.exe %s'  // path of chrome
     URLS = {
         "stackoverflow.com",
         "gmail.com",
